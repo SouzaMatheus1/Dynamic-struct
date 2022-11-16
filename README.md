@@ -1,2 +1,2 @@
-# Dynamic-struct
+# Dynamic* struct
 Dynamic struct with pointers
